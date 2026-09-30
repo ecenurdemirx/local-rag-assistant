@@ -1,0 +1,21 @@
+What Is Artificial Intelligence?
+
+Source basis:
+IBM - What Is Artificial Intelligence (AI)?
+https://www.ibm.com/think/topics/artificial-intelligence
+
+Artificial intelligence, usually called AI, is technology that allows computers and machines to perform tasks that normally require human-like abilities.
+
+AI systems can recognize patterns, understand language, make predictions, solve problems, and support decisions. Some AI systems can also create new content such as text, images, audio, video, or software code.
+
+AI is already used in many everyday products. Examples include recommendation systems, voice assistants, image recognition, fraud detection, navigation tools, and self-driving technology.
+
+Most AI systems today are designed for specific tasks. This is often called narrow AI. A narrow AI system may be very good at one problem, such as recognizing faces or recommending movies, but it does not have general human intelligence.
+
+Machine learning is one important way to build AI systems. Instead of giving a computer every rule directly, developers can train a model using data. The model learns patterns from examples and then uses those patterns to make predictions or decisions about new data.
+
+Deep learning is a type of machine learning that uses neural networks with many layers. Deep learning is especially important in modern systems for language, images, speech, and generative AI.
+
+Generative AI is AI that can create new content in response to a prompt. For example, a generative AI system can write text, create an image, summarize a document, or generate code.
+
+AI can be useful because it can process large amounts of information quickly and find patterns that may be difficult for people to notice. However, AI systems can also make mistakes, reflect bias in their training data, or produce incorrect information. Human review and responsible use are therefore important.

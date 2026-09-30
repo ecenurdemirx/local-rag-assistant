@@ -1,0 +1,27 @@
+Classification in Machine Learning
+
+Source basis:
+Google Machine Learning Crash Course
+https://developers.google.com/machine-learning/crash-course/classification
+
+Classification is a machine learning task in which a model predicts a category.
+
+A simple example is an email spam filter. The model receives an email and predicts one of two classes: spam or not spam.
+
+Another example is image recognition. A model might receive a picture and predict whether it contains a cat, dog, car, or another object.
+
+Binary classification has two possible classes. Examples include yes or no, fraud or not fraud, and positive or negative.
+
+Multiclass classification has more than two classes. For example, a model that identifies handwritten digits may choose among ten classes: 0 through 9.
+
+A classification model often produces a score or probability. The system can then use a threshold to decide which class to choose.
+
+For example, if a model predicts a 0.9 probability that an email is spam, the system may classify it as spam. If the probability is only 0.2, the system may classify it as not spam.
+
+The quality of a classification system should be evaluated carefully. Accuracy can be useful, but it does not always tell the whole story.
+
+Suppose only one percent of transactions are fraudulent. A model that always predicts “not fraud” would be correct most of the time, but it would still be useless for detecting fraud.
+
+Other measurements such as precision and recall can help explain different kinds of classification errors.
+
+Classification is widely used in fraud detection, medical support systems, moderation, document organization, image recognition, and many other applications.

@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+rag.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+__MACOSX/
+._*
+.pytest_cache/
+.coverage
+htmlcov/
+*.db-journal

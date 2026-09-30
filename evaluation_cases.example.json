@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "expected_source": "what_is_ai.txt"
+  },
+  {
+    "question": "What are the two important stages of machine learning?",
+    "expected_source": "machine_learning_basics.md"
+  },
+  {
+    "question": "What kinds of content can generative AI produce?",
+    "expected_source": "generative_ai_basics.md"
+  },
+  {
+    "question": "What is binary classification?",
+    "expected_source": "classification_basics.txt"
+  },
+  {
+    "question": "What can happen when a bank detects an unusual transaction pattern?",
+    "expected_source": "ai_in_everyday_life.pdf"
+  },
+  {
+    "question": "How does a computer learn from examples instead of explicit rules?",
+    "expected_source": "machine_learning_basics.md"
+  },
+  {
+    "question": "Who won the 2022 FIFA World Cup?",
+    "expected_source": null
+  }
+]
